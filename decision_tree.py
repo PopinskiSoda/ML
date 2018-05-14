@@ -12,4 +12,4 @@ Y = ['man', 'woman', 'woman', 'man', 'woman']
                                                                                 
 clf = clf.fit(X, Y)                                                             
 prediction = clf.predict([[133, 37,1]])                                         
-print(prediction)    
+print(prediction)
